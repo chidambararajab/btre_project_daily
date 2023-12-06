@@ -163,3 +163,4 @@ cython_debug/
 
 # source
 /static
+.DS_Store
